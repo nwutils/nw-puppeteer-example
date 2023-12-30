@@ -2,7 +2,7 @@
     "name": "boop",
     "main": "index.html",
     "devDependencies": {
-        "nw": "^0.82.0",
+        "nw": "^0.83.0",
         "puppeteer": "^21.6.1"
     },
     "scripts": {
