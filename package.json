@@ -2,8 +2,8 @@
     "name": "boop",
     "main": "index.html",
     "devDependencies": {
-        "nw": "^0.83.0",
-        "puppeteer": "^21.11.0"
+        "nw": "^0.84.0",
+        "puppeteer": "^22.0.0"
     },
     "scripts": {
         "launch": "node launch.mjs"
