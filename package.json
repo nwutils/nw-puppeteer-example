@@ -3,7 +3,7 @@
     "main": "index.html",
     "devDependencies": {
         "nw": "^0.84.0",
-        "puppeteer": "^22.2.0"
+        "puppeteer": "^22.3.0"
     },
     "scripts": {
         "launch": "node launch.mjs"
